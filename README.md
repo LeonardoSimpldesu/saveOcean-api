@@ -6,7 +6,8 @@
 
 O projeto SaveOcean é uma plataforma gamificada de aprendizagem que aborda a urgente necessidade de novas práticas ambientais para a saúde dos oceanos. Focada em instituições de ensino, nossa missão é ensinar de forma lúdica e envolvente sobre a vida marinha e a importância dos cuidados necessários para preservar essa parte vital do nosso planeta. Mostramos as consequências da negligência ambiental e incentivamos práticas sustentáveis no dia a dia, contribuindo para a formação de futuras gerações mais conscientes. Queremos preparar jovens para serem agentes de mudança, engajados na preservação dos oceanos e, por extensão, do planeta. Nossos módulos, desenvolvidos com o uso de IA, são cuidadosamente planejados para oferecer a melhor abordagem de ensino, completamente gamificados para tornar a aprendizagem mais prazerosa, combinando educação e inovação.
 
-Pasta do projeto (Drive): https://drive.google.com/drive/folders/1tnAOCkSnwBKHEcEoefYjv5lfMYmX9uew?usp=drive_link 
+Pasta do projeto (Drive): 
+https://drive.google.com/drive/folders/1tnAOCkSnwBKHEcEoefYjv5lfMYmX9uew?usp=drive_link 
 
 ## FUNCIONALIDADES PRINCIPAIS
 
@@ -60,6 +61,7 @@ Pasta do projeto (Drive): https://drive.google.com/drive/folders/1tnAOCkSnwBKHEc
 
 ### 9. [...]
 
+
 ## IMPACTOS
 
 - Forma jovens mais preparados para entender os desafios ambientais;
@@ -81,7 +83,7 @@ Com o Save Ocean, estamos navegando rumo a um futuro mais sustentável e conscie
 [Link]
 
 ## REPOSITÓRIO (GITHUB)
-[https://github.com/LeonardoSimpldesu/saveOcean-api]
+https://github.com/LeonardoSimpldesu/saveOcean-api
 
 ## VÍDEO PITCH (YOUTUBE)
 [Link]
