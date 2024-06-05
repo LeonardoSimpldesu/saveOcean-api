@@ -1,0 +1,10 @@
+{
+    "userId": 1, 
+    "peixes": [
+        {
+            "name": "Peixe Boi", 
+            "photograph": "path", 
+            "description": "Peixe que incha e fica gordo."
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "userId": 1,
+        "userName": "Kleber",
+        "position": 1
+    },
+    {
+        "userId": 2,
+        "userName": "Augusto",
+        "position": 2
+    },
+    {
+        "userId": 3,
+        "userName": "Leonardo",
+        "position": 3
+    },
+    {
+        "userId": 4,
+        "userName": "João",
+        "position": 4
+    },
+    {
+        "userId": 5,
+        "userName": "Ana",
+        "position": 5
+    }
+]
