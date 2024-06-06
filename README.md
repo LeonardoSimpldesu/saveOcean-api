@@ -82,7 +82,7 @@ Com o Save Ocean, estamos navegando rumo a um futuro mais sustentável e conscie
 ## DEPLOY (VERSEL/RENDER)
 
 - `Web` [Link]
-- `API:` [Link]
+- `API:` https://saveocean-api.onrender.com/
 
 ## REPOSITÓRIO (GITHUB)
 
