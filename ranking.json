@@ -2,26 +2,31 @@
     {
         "userId": 1,
         "userName": "Kleber",
-        "position": 1
+        "position": 4, 
+        "pontuacao": 3293
     },
     {
         "userId": 2,
         "userName": "Augusto",
-        "position": 2
+        "position": 1, 
+        "pontuacao": 3375
     },
     {
         "userId": 3,
         "userName": "Leonardo",
-        "position": 3
+        "position": 5, 
+        "pontuacao": 3198
     },
     {
         "userId": 4,
         "userName": "João",
-        "position": 4
+        "position": 2, 
+        "pontuacao": 3300
     },
     {
         "userId": 5,
         "userName": "Ana",
-        "position": 5
+        "position": 3, 
+        "pontuacao": 3297
     }
 ]

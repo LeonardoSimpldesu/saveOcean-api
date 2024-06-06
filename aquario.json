@@ -1,10 +1,60 @@
 {
     "userId": 1, 
-    "peixes": [
+    "seres": [
+        {
+            "name": "Algas", 
+            "description": "As algas produzem uma grande parte do oxigênio do planeta através da fotossíntese e são a base da cadeia alimentar marinha, sustentando diversas formas de vida aquática.",
+            "preco": 100
+        }, 
+        {
+            "name": "Camarão", 
+            "description": "Essenciais para o ecossistema marinho, os camarões são uma fonte crucial de alimento para muitas espécies e ajudam na reciclagem de nutrientes no ambiente marinho.",
+            "preco": 250
+        }, 
+        {
+            "name": "Água Viva", 
+            "description": "As águas-vivas desempenham um papel importante na cadeia alimentar, servindo de alimento para várias espécies marinhas, como tartarugas e peixes.",
+            "preco": 300
+        }, 
+        {
+            "name": "Peixe Palhaço", 
+            "description": "Conhecidos por suas relações simbióticas com as anêmonas-do-mar, os peixes-palhaço ajudam a proteger as anêmonas de predadores enquanto se beneficiam da proteção contra predadores que as anêmonas proporcionam.",
+            "preco": 350
+        },
+        {
+            "name": "Cirgurgião Patela", 
+            "description": "Esses peixes são importantes para a saúde dos recifes de coral, pois se alimentam de algas que, de outra forma, poderiam sufocar os corais.",
+            "preco": 400
+        },
+        {
+            "name": "Peixe Espada", 
+            "description": "Predador de topo, o peixe-espada ajuda a manter o equilíbrio das populações de presas, contribuindo para a saúde do ecossistema marinho.",
+            "preco": 450
+        },
         {
             "name": "Peixe Boi", 
-            "photograph": "path", 
-            "description": "Peixe que incha e fica gordo."
+            "description": " Os peixes-boi desempenham um papel crucial na manutenção dos ecossistemas de pradarias marinhas, pois se alimentam de plantas aquáticas, ajudando a manter esses habitats saudáveis.",
+            "preco": 500
+        },
+        {
+            "name": "Caranguejo", 
+            "description": "Os caranguejos são importantes recicladores no ecossistema marinho, alimentando-se de matéria orgânica em decomposição e ajudando a manter o ambiente limpo",
+            "preco": 550
+        },
+        {
+            "name": "Esponja", 
+            "description": "As esponjas filtram grandes volumes de água, removendo partículas e bactérias, ajudando a manter a qualidade da água nos ecossistemas marinhos.",
+            "preco": 600
+        },
+        {
+            "name": "Crustáceos", 
+            "description": "Incluindo camarões, caranguejos e lagostas, os crustáceos são fundamentais na cadeia alimentar marinha e ajudam na reciclagem de nutrientes.",
+            "preco": 650
+        },
+        {
+            "name": "Tubarão", 
+            "description": "Predadores de topo, os tubarões regulam a população de outras espécies marinhas, contribuindo para a saúde e o equilíbrio dos ecossistemas oceânicos.",
+            "preco": 700
         }
     ]
 }
