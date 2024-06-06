@@ -1,0 +1,54 @@
+{
+  "userId": 1,
+  "contentTask": {
+    "tittle": "Atividade: Entendendo a Poluição do Oceano",
+    "text": "Era uma vez um peixinho chamado Lúcio que vivia no oceano azul. Lúcio adorava nadar e brincar com seus amigos. Um dia, Lúcio viu algo estranho na água. Havia uma garrafa plástica e muitos sacos de lixo flutuando. Lúcio ficou preocupado e foi falar com sua amiga, a tartaruga Tina. Tina explicou que os humanos jogam muito lixo no oceano, e isso é muito perigoso para todos os animais que vivem lá. Ela contou que alguns peixes confundem o lixo com comida e podem ficar doentes. Outros animais, como as tartarugas, podem ficar presos no lixo. Lúcio e Tina decidiram fazer algo para ajudar. Eles começaram a recolher o lixo que encontravam e ensinaram outros animais a fazer o mesmo. Logo, muitos amigos se juntaram a eles e o oceano começou a ficar mais limpo."
+  },
+
+  "questions": [
+    {
+      "question": "Quem é o personagem principal da história? ",
+      "options": [
+        { "value": "Tina." },
+        { "value": "Lúcio." },
+        { "value": "Um Humano." }
+      ]
+    },
+    {
+      "question": "O que Lúcio viu na água que o deixou preocupado?",
+      "options": [
+        { "value": "Uma tartaruga." },
+        { "value": "Muito Lixo." },
+        { "value": "Um barco." }
+      ]
+    },
+    {
+      "question": "Por que o lixo no oceano é perigoso?",
+      "options": [
+        { "value": "Porque o lixo é feio." },
+        {
+          "value": "Porque os animais podem confundir o lixo com comida e ficar doentes"
+        },
+        { "value": "Porque o lixo afunda." }
+      ]
+    },
+    {
+      "question": "O que Lúcio e Tina Fizeram para ajudar?",
+      "options": [
+        { "value": "Foram Nadar." },
+        {
+          "value": "Recolheram o lixo e ensinaram outros animais a fazer o mesmo."
+        },
+        { "value": "Dormiram." }
+      ]
+    },
+    {
+      "question": "O que aconteceu quando os amigos de Lúcio e Tina se juntaram a eles?",
+      "options": [
+        { "value": "O oceano ficou mais limpo." },
+        { "value": "Eles fizeram uma festa." },
+        { "value": "O lixo desapareceu sozinho." }
+      ]
+    }
+  ]
+}
