@@ -74,7 +74,13 @@ O SaveOcean foi criado para enfrentar a necessidade urgente de educação ambien
 Com o Save Ocean, estamos navegando rumo a um futuro mais sustentável e consciente.
 
 ## TECNOLOGIAS UTILIZADAS
-[...]
+
+- HTML (Hyper Text Markup language);
+- CSS (Cascading Style Sheets);
+- JavaScript;
+- React Native;
+- TypeScript;
+- Fastify.
 
 ## APIS UTILIZADAS E SUAS FUNÇÕES
 [...]
@@ -86,9 +92,9 @@ Com o Save Ocean, estamos navegando rumo a um futuro mais sustentável e conscie
 
 ## REPOSITÓRIO (GITHUB)
 
-- `API:` https://github.com/LeonardoSimpldesu/saveOcean-api
 - `Web:` [Link]
 - `Mobile:` [Link]
+- `API:` https://github.com/LeonardoSimpldesu/saveOcean-api
 
 ## VÍDEO PITCH (YOUTUBE)
 [Link]
