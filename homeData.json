@@ -1,0 +1,49 @@
+{
+    "userId": 1,
+    "ranking": {
+        "pontos": 350,
+        "posicao": "7º"
+    },
+    "contents": [
+        {
+            "title": "Impacto da Poluição Plástica nos Ecossistemas Marinhos",
+            "blocked": false
+        },
+        {
+            "title": "Efeitos da Mudança Climática na Acidificação dos Oceanos",
+            "blocked": false
+        },
+        {
+            "title": "Importância das Reservas Marinhas para a Conservação",
+            "blocked": false
+        },
+        {
+            "title": "Destruição dos Recifes de Coral: Causas e Soluções",
+            "blocked": true
+        },
+        {
+            "title": "Proliferação de Algas Nocivas e Zonas Mortas",
+            "blocked": true
+        },
+        {
+            "title": "Efeitos da Pesca Excessiva na Biodiversidade Marinha",
+            "blocked": true
+        },
+        {
+            "title": "Microplásticos e Sua Entrada na Cadeia Alimentar",
+            "blocked": true
+        },
+        {
+            "title": "Impacto das Atividades Humanas na Saúde dos Manguezais",
+            "blocked": true
+        },
+        {
+            "title": "Restaurando Populações de Espécies Marinhas Ameaçadas",
+            "blocked": true
+        },
+        {
+            "title": "A Importância dos Oceanos na Regulação do Clima Global",
+            "blocked": true
+        }
+    ]
+}
