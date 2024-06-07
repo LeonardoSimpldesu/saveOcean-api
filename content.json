@@ -7,7 +7,8 @@
           "blocked": false,
           "certified": true, 
           "points": 3000, 
-          "image": "image1"
+          "image": "image1",
+          "algasProgress": 3
         },
         {
           "title": "Condições Dos Recifes e Corais",
@@ -15,7 +16,8 @@
           "blocked": true,
           "certified": true, 
           "points": 3000, 
-          "image": "image2"
+          "image": "image2",
+          "algasProgress": 0
         },
         {
           "title": "Empoderamento Das Comunidades Costeiras",
@@ -23,7 +25,8 @@
           "blocked": true,
           "certified": true, 
           "points": 3000, 
-          "image": "image3"
+          "image": "image3",
+          "algasProgress": 0
         },
         {
           "title": "Destruição dos Recifes de Coral: Causas e Soluções",
@@ -31,7 +34,8 @@
           "blocked": true,
           "certified": false, 
           "points": 3000, 
-          "image": "image150"
+          "image": "image150",
+          "algasProgress": 0
         },
         {
           "title": "Proliferação de Algas Nocivas e Zonas Mortas",
@@ -39,7 +43,8 @@
           "blocked": true,
           "certified": false, 
           "points": 3000, 
-          "image": "image150"
+          "image": "image150",
+          "algasProgress": 0
         },
         {
           "title": "Efeitos da Pesca Excessiva na Biodiversidade Marinha",
@@ -47,7 +52,8 @@
           "blocked": true,
           "certified": false, 
           "points": 3000, 
-          "image": "image150"
+          "image": "image150",
+          "algasProgress": 0
         },
         {
           "title": "Microplásticos e Sua Entrada na Cadeia Alimentar",
@@ -55,7 +61,8 @@
           "blocked": true,
           "certified": false, 
           "points": 3000, 
-          "image": "image150"
+          "image": "image150",
+          "algasProgress": 0
         },
         {
           "title": "Impacto das Atividades Humanas na Saúde dos Manguezais",
@@ -63,7 +70,8 @@
           "blocked": true,
           "certified": false, 
           "points": 3000, 
-          "image": "image150"
+          "image": "image150",
+          "algasProgress": 0
         },
         {
           "title": "Restaurando Populações de Espécies Marinhas Ameaçadas",
@@ -71,7 +79,8 @@
           "blocked": true,
           "certified": false, 
           "points": 3000, 
-          "image": "image150"
+          "image": "image150",
+          "algasProgress": 0
         },
         {
           "title": "A Importância dos Oceanos na Regulação do Clima Global",
@@ -79,7 +88,8 @@
           "blocked": true,
           "certified": false, 
           "points": 3000, 
-          "image": "image150"
+          "image": "image150",
+          "algasProgress": 0
         }
       ]
 }

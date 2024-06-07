@@ -7,43 +7,53 @@
     "contents": [
         {
             "title": "A Poluição Dos Oceanos",
-            "blocked": false
+            "blocked": false,
+            "image": "image1"
         },
         {
             "title": "Condições Dos Recifes e Corais",
-            "blocked": true
+            "blocked": true,
+            "image": "image2"
         },
         {
             "title": "Empoderamento Das Comunidades Costeiras",
-            "blocked": true
+            "blocked": true,
+            "image": "image3"
         },
         {
             "title": "Destruição dos Recifes de Coral: Causas e Soluções",
-            "blocked": true
+            "blocked": true,
+            "image": "image150"
         },
         {
             "title": "Proliferação de Algas Nocivas e Zonas Mortas",
-            "blocked": true
+            "blocked": true,
+            "image": "image150"
         },
         {
             "title": "Efeitos da Pesca Excessiva na Biodiversidade Marinha",
-            "blocked": true
+            "blocked": true,
+            "image": "image150"
         },
         {
             "title": "Microplásticos e Sua Entrada na Cadeia Alimentar",
-            "blocked": true
+            "blocked": true,
+            "image": "image150"
         },
         {
             "title": "Impacto das Atividades Humanas na Saúde dos Manguezais",
-            "blocked": true
+            "blocked": true,
+            "image": "image150"
         },
         {
             "title": "Restaurando Populações de Espécies Marinhas Ameaçadas",
-            "blocked": true
+            "blocked": true,
+            "image": "image150"
         },
         {
             "title": "A Importância dos Oceanos na Regulação do Clima Global",
-            "blocked": true
+            "blocked": true,
+            "image": "image150"
         }
     ]
 }
