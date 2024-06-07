@@ -83,7 +83,8 @@ Com o Save Ocean, estamos navegando rumo a um futuro mais sustentável e conscie
 - Fastify.
 
 ## APIS UTILIZADAS E SUAS FUNÇÕES
-[...]
+
+SaveOcean API (API Própria): é uma interface de programação de aplicativos projetada para fornecer acesso programático aos recursos e funcionalidades da plataforma SaveOcean. Ela permite que desenvolvedores integrem e manipulem dados relacionados à vida marinha, atividades educativas, ranqueamento de usuários e conteúdos gamificados. (temporário)
 
 ## DEPLOY (VERSEL/RENDER)
 
