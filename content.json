@@ -12,7 +12,7 @@
         {
           "title": "Condições Dos Recifes e Corais",
           "saved": true,
-          "blocked": false,
+          "blocked": true,
           "certified": true, 
           "points": 3000, 
           "image": "image2"
@@ -20,7 +20,7 @@
         {
           "title": "Empoderamento Das Comunidades Costeiras",
           "saved": false,
-          "blocked": false,
+          "blocked": true,
           "certified": true, 
           "points": 3000, 
           "image": "image3"
