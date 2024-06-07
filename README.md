@@ -84,16 +84,23 @@ Com o Save Ocean, estamos navegando rumo a um futuro mais sustentável e conscie
 
 ## APIS UTILIZADAS E SUAS FUNÇÕES
 
-SaveOcean API (API Própria): é uma interface de programação de aplicativos projetada para fornecer acesso programático aos recursos e funcionalidades da plataforma SaveOcean. Ela permite que desenvolvedores integrem e manipulem dados relacionados à vida marinha, atividades educativas, ranqueamento de usuários e conteúdos gamificados. (temporário)
+SaveOcean API (API Própria): é uma interface de programação de aplicativos projetada para fornecer acesso programático aos recursos e funcionalidades da plataforma SaveOcean. Ela permite que desenvolvedores integrem e manipulem dados relacionados à vida marinha, atividades educativas, ranqueamento de usuários e conteúdos gamificados.
+
+`EndPoints:`
+
+- `Requisição para obter os dados da Home do App:` https://saveocean-api.onrender.com/home 
+- `Requisição para obter os conteúdos a serem estudados:` https://saveocean-api.onrender.com/Content/allContents
+- `Requisição para ver e comprar os itens da loja:`https://saveocean-api.onrender.com/Aquario/allEspecies
+- `Requisição que contém as atividades do aluno:` https://saveocean-api.onrender.com/Task/contentTask
 
 ## DEPLOY (VERSEL/RENDER)
 
-- `Web` [Link]
+- `Web:` save-ocean-web.vercel.app 
 - `API:` https://saveocean-api.onrender.com/
 
 ## REPOSITÓRIO (GITHUB)
 
-- `Web:` [Link]
+- `Web:` https://github.com/Joao-Tranquilino/SaveOceanWeb  
 - `Mobile:` [Link]
 - `API:` https://github.com/LeonardoSimpldesu/saveOcean-api
 
