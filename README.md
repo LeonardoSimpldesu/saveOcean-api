@@ -105,6 +105,6 @@ SaveOcean API (API Própria): é uma interface de programação de aplicativos p
 - `API:` https://github.com/LeonardoSimpldesu/saveOcean-api
 
 ## VÍDEO PITCH (YOUTUBE)
-[Link]
+https://youtu.be/lzxPikakqfA
 
 
